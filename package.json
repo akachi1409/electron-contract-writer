@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "b4a": "^1.6.1",
+    "corestore": "^6.4.3",
+    "graceful-goodbye": "^1.2.1",
+    "hyperbee": "^2.4.2",
+    "hyperswarm": "^4.3.7",
+    "uuid": "^9.0.0"
+  }
+}
